@@ -24,3 +24,9 @@ def strcounter2(a): #O(N)
     print(syms_counter)
 
 strcounter2(a)
+
+
+#пишу новы код вмлоиамовл
+абвсмьтвлмттмм
+сшмтаоомлатм
+тмшшаролтаомг
